@@ -1,7 +1,7 @@
 # Search-Engine
 Search-Engine developed for Level 3 Indian Army Hackathon
 
-## To test the search engine you need docker installed
+## Do the following steps to test the search engine using docker
 
 1. docker pull balajianandhan/hackathon:search_engine
 2. docker run --publish 8000:8000 balajianandhan/hackathon:search_engine
